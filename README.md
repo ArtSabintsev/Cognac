@@ -28,7 +28,7 @@ Color | Palette | Hex | Usage
 ### Editors
 - [Cognac 🥃 for Atom](https://github.com/ArtSabintsev/Cognac-Atom)
 - [Cognac 🥃 for Terminal](https://github.com/ArtSabintsev/Cognac-Terminal)
-- [Cognac 🥃 for Sublime (and TextMate)](https://github.com/ArtSabintsev/Cognac-Sublime)
+- [Cognac 🥃 for Sublime](https://github.com/ArtSabintsev/Cognac-Sublime)
 - [Cognac 🥃 for Xcode](https://github.com/ArtSabintsev/Cognac-Xcode)
 
 ### Slack
