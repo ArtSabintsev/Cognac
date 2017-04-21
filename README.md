@@ -19,7 +19,7 @@ Color | Palette | Hex | Usage
 
 ### Specific Rules
 - Keywords, which are pink, should always be bolded.
-- Documentation Keywords (e.g., URLs), which are light-gray, should always be bolded.
+- Documentation Keywords, which are light-gray, should always be bolded.
 
 ## Themes
 ### Atom
