@@ -25,15 +25,17 @@ Color | Palette | Hex | Usage
 - Documentation Keywords, which are light-gray, should always be bolded.
 
 ## Themes
-### Atom
+### Editors
+- [Cognac 🥃 for Atom](https://github.com/ArtSabintsev/Cognac-Atom)
+- [Cognac 🥃 for Terminal](https://github.com/ArtSabintsev/Cognac-Terminal)
+- [Cognac 🥃 for TextMate](https://github.com/ArtSabintsev/Cognac-TextMate)
+- [Cognac 🥃 for Xcode](https://github.com/ArtSabintsev/Cognac-Xcode)
+
 ### Slack
-Go to Preferences > Sidebar Theme. Then copy the following snippet:
+Go to **Preferences > Sidebar Theme**. Then, copy the following snippet:
 ```
 #222222,#999999,#555555,#8AEC8A,#555555,#FFC580,#C18AFF,#FF9595
 ```
-### Terminal
-### TextMate
-### Xcode
 
 ## Support
 Support will be added to more editors and IDEs over time. If your IDE isn't supported yet, open an issue with your text editor or IDE of choice and I'll prioritize it.
