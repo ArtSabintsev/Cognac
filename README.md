@@ -1,5 +1,5 @@
 # Cognac 🥃
-An Alluring, Dark, Muted, Night Shift Friendly Theme For Xcode.
+An Alluring, Dark, and Muted Theme For Xcode.
 
 ## About
 Cognac is a theme composed of 11 colors that are easy on the eyes in both normal and light-reduced screens. All of the chosen colors are adjacent or complimentary to each other on the color wheel, excluding the black and gray colors.
