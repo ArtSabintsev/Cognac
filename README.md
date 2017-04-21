@@ -1,5 +1,5 @@
 # Cognac 🥃
-An Alluring, Dark, Muted, Night Shift Friendly Theme.
+An Alluring, Dark, Muted, Night Shift Friendly Theme For Your Favorite Text Editor.
 
 ## Palette
 
@@ -31,6 +31,9 @@ Go to Preferences > Sidebar Theme. Then copy the following snippet:
 ### Terminal
 ### TextMate
 ### Xcode
+
+## Support
+Support will be added to more editors and IDEs over time. If your IDE isn't supported yet, open an issue with your text editor or IDE of choice and I'll prioritize it.
 
 ## Credits
 - [Arthur Ariel Sabintsev](http://www.sabintsev.com/)
