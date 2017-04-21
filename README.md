@@ -33,7 +33,7 @@ Color | Palette | Hex | Usage
 - [Cognac 🥃 for Atom](https://github.com/ArtSabintsev/Cognac-Atom)
 - [Cognac 🥃 for Sublime](https://github.com/ArtSabintsev/Cognac-Sublime)
 - [Cognac 🥃 for Terminal](https://github.com/ArtSabintsev/Cognac-Terminal)
-- [Cognac 🥃 for Terminal](https://github.com/ArtSabintsev/Cognac-TextMate)
+- [Cognac 🥃 for TextMate](https://github.com/ArtSabintsev/Cognac-TextMate)
 - [Cognac 🥃 for Xcode](https://github.com/ArtSabintsev/Cognac-Xcode)
 
 ### Slack
