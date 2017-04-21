@@ -4,6 +4,10 @@ An Alluring, Dark, and Muted Theme For Your Favorite Text Editor.
 ## About
 Cognac is a theme composed of 11 colors that are easy on the eyes in both normal and light-reduced screens. All of the chosen colors are adjacent or complimentary to each other on the color wheel, excluding the black and gray colors.
 
+## Screenshot
+<img src="Example.png" height="600">
+
+
 ## Palette
 
 Color | Palette | Hex | Usage
