@@ -1,5 +1,8 @@
 # Cognac 🥃
-An Alluring, Dark, Muted, Night Shift Friendly Theme For Your Favorite Text Editor.
+An Alluring, Dark, Muted, Night Shift Friendly Theme For Xcode.
+
+## About
+Cognac is a theme composed of 11 colors that are easy on the eyes in both normal and light-reduced screens. All of the chosen colors are adjacent or complimentary to each other on the color wheel, excluding the black and gray colors.
 
 ## Palette
 
@@ -21,19 +24,11 @@ Color | Palette | Hex | Usage
 - Keywords, which are pink, should always be bolded.
 - Documentation Keywords, which are light-gray, should always be bolded.
 
-## Themes
-### Atom
-### Slack
-Go to Preferences > Sidebar Theme. Then copy the following snippet:
+## Installation Instructions
+Download `Cognac.xccolortheme` and copy it into the following directory:
 ```
-#222222,#999999,#555555,#8AEC8A,#555555,#FFC580,#C18AFF,#FF9595
+~/Library/Developer/Xcode/UserData/FontsAnd
 ```
-### Terminal
-### TextMate
-### Xcode
-
-## Support
-Support will be added to more editors and IDEs over time. If your IDE isn't supported yet, open an issue with your text editor or IDE of choice and I'll prioritize it.
 
 ## Credits
 - [Arthur Ariel Sabintsev](http://www.sabintsev.com/)
