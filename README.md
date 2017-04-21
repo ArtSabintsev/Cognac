@@ -24,11 +24,19 @@ Color | Palette | Hex | Usage
 - Keywords, which are pink, should always be bolded.
 - Documentation Keywords, which are light-gray, should always be bolded.
 
-## Installation Instructions
-Download `Cognac.xccolortheme` and copy it into the following directory:
+## Themes
+### Atom
+### Slack
+Go to Preferences > Sidebar Theme. Then copy the following snippet:
 ```
-~/Library/Developer/Xcode/UserData/FontsAnd
+#222222,#999999,#555555,#8AEC8A,#555555,#FFC580,#C18AFF,#FF9595
 ```
+### Terminal
+### TextMate
+### Xcode
+
+## Support
+Support will be added to more editors and IDEs over time. If your IDE isn't supported yet, open an issue with your text editor or IDE of choice and I'll prioritize it.
 
 ## Credits
 - [Arthur Ariel Sabintsev](http://www.sabintsev.com/)
