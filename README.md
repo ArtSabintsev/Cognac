@@ -36,6 +36,7 @@ Color | Palette | Hex | Usage
 - [Cognac 🥃 for TextMate](https://github.com/ArtSabintsev/Cognac-TextMate)
 - [Cognac 🥃 for Xcode](https://github.com/ArtSabintsev/Cognac-Xcode)
 - [Cognac 🥃 for Vim](https://github.com/ckmorris/Cognac-Vim) (via [Chris Morris (ckmorris)](https://github.com/ckmorris/))
+- [Cognac 🥃 for IntelliJ](https://github.com/wesleybliss/Cognac-IntelliJ) (via [Wesley Bliss](https://github.com/wesleybliss/))
 
 ### Slack
 Go to **Preferences > Sidebar Theme**. Then, copy the following snippet:
