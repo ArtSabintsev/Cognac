@@ -36,6 +36,7 @@ Color | Palette | Hex | Usage
 - [Cognac 🥃 for Terminal](https://github.com/ArtSabintsev/Cognac-Terminal)
 - [Cognac 🥃 for TextMate](https://github.com/ArtSabintsev/Cognac-TextMate)
 - [Cognac 🥃 for Vim](https://github.com/ckmorris/Cognac-Vim) (via [Chris Morris](https://github.com/ckmorris/))
+- [Cognac 🥃 for Visual Studio Code](https://github.com/ArtSabintsev/Cognac-VSCode)
 - [Cognac 🥃 for Xcode](https://github.com/ArtSabintsev/Cognac-Xcode)
 
 ### Slack
