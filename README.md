@@ -31,6 +31,7 @@ Color | Palette | Hex | Usage
 ## Themes
 ### Editors
 - [Cognac 🥃 for Atom](https://github.com/ArtSabintsev/Cognac-Atom)
+- [Cognac 🥃 for iTerm 2](https://github.com/ArtSabintsev/Cognac-iTerm)
 - [Cognac 🥃 for IntelliJ](https://github.com/wesleybliss/Cognac-IntelliJ) (via [Wesley Bliss](https://github.com/wesleybliss/))
 - [Cognac 🥃 for Sublime](https://github.com/ArtSabintsev/Cognac-Sublime)
 - [Cognac 🥃 for Terminal](https://github.com/ArtSabintsev/Cognac-Terminal)
